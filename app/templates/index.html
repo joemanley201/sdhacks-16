@@ -190,6 +190,16 @@
                     </form>
                 </div>
             </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="row hidden" id="loadingGif">
+                <div class="col-lg-12 text-center">
+                    <img src="{{ url_for('static', filename='img/loading.gif') }}" alt="">
+                </div>
+            </div>
             <!-- <div class="row">
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
@@ -657,11 +667,14 @@
             document.getElementById('fileUpload').click();
         }
         document.getElementById('fileUpload').onchange = function() {
+            $("#loadingGif").removeClass("hidden");
+
             var formData = new FormData()
             var csv = document.getElementById("fileUpload").files[0]
             formData.append("uploaded_file", csv)
             formData.append('lastModifed', csv.lastModified)
             formData.append('fileName', csv.name)
+            $(this)[0].value = null
             $.ajax({
                 url: '/upload_csv',
                 type:'POST',
@@ -671,7 +684,8 @@
                 processData: false,
                 cache: false,
                 success: function(response) {
-                    console.log(response)
+                    $("#loadingGif").addClass("hidden");
+                    $(this)
                 }
             });
         }
