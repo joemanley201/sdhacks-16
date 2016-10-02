@@ -1,0 +1,501 @@
+name,email,age,country,university,department,degree
+ Sri  Chen,SriChen7915@gmail.com,26, Germany,University of  Wisconsin - Madison,CSE,BR
+ Monica  Chen,MonicaChen7563@gmail.com,28, China,University of  Washington, Maths,BR
+ Sri  Wang,SriWang2070@gmail.com,21, Japan,University of  Texas - Austin, ECE,BR
+ Binny  Greene,BinnyGreene132@gmail.com,26, UK,University of  Washington,CSE, PhD
+ Stuart  Singh,StuartSingh8452@gmail.com,26, France,University of California - Santa Barbara, Data Science, MS
+ Joe Shah,JoeShah9809@gmail.com,23, UK,University of  California - San Diego, Data Science,BR
+ Rachel  Lee,RachelLee2298@gmail.com,22, Japan,University of Michigan, ECE, PhD
+ Joe  Chen,JoeChen7660@gmail.com,24, USA,University of  Washington, ECE, MS
+ Melissa  Chan,MelissaChan3191@gmail.com,22, Mexico,University of Michigan, ECE, PhD
+ Sri  Smith,SriSmith4496@gmail.com,25, Greece,University of  California - Santa Cruz, ECE,BR
+ Binny  Wang,BinnyWang2444@gmail.com,22, France,University of  Pennsylvania, ECE,BR
+ Melissa  Chan,MelissaChan208@gmail.com,27, France,University of  Wisconsin - Madison,CSE, MS
+John  Singh,JohnSingh1740@gmail.com,22,India,University of  Texas - Austin, ECE, MS
+ Melissa  Wang,MelissaWang2041@gmail.com,21, China,University of  Washington, Maths, MS
+ Binny  Watson,BinnyWatson9112@gmail.com,20, Spain,University of California - Los Angeles, ECE, PhD
+ Oliver  Watson,OliverWatson95@gmail.com,26, UK,University of  Texas - Austin, Maths, PhD
+ Sri  Chan,SriChan1999@gmail.com,23,India,University of Michigan, Bioinformatics,BR
+ Joe  Lee,JoeLee5680@gmail.com,26, USA,University of California - Santa Barbara, Maths, PhD
+ Stuart  Greene,StuartGreene3989@gmail.com,27, Mexico,University of California - Los Angeles, Data Science,BR
+ Melissa  Chan,MelissaChan1522@gmail.com,24, Greece,University of California - Santa Barbara, Bioinformatics, PhD
+ Melissa  Watson,MelissaWatson6359@gmail.com,23, UK,University of California - Los Angeles, CE,BR
+ Melissa  Smith,MelissaSmith1982@gmail.com,22, China,University of Michigan, ECE,BR
+ Stuart  Wang,StuartWang6058@gmail.com,24, Japan,University of California - Los Angeles, Maths,BR
+John  Chan,JohnChan2761@gmail.com,20, Greece,University of  Texas - Austin, Data Science, PhD
+ Joe  Chen,JoeChen822@gmail.com,24, Spain,University of  California - San Diego,CSE, PhD
+ Monica  Watson,MonicaWatson3320@gmail.com,26, Mexico,University of  Texas - Austin, Bioinformatics, MS
+ Stuart  Wang,StuartWang8846@gmail.com,28, UK,University of  Pennsylvania, Maths,BR
+John  Chan,JohnChan7244@gmail.com,24, Italy,University of California - Santa Barbara,CSE, PhD
+ Monica  Smith,MonicaSmith7460@gmail.com,21, Australia,University of  Wisconsin - Madison, ECE,BR
+ Sri  Watson,SriWatson2073@gmail.com,25, China,University of California - Los Angeles, Bioinformatics, MS
+John  Wang,JohnWang1825@gmail.com,23,India,University of  California - San Diego, ECE, MS
+John  Chan,JohnChan5532@gmail.com,24, China,University of  Wisconsin - Madison, Maths,BR
+ Oliver  Chan,OliverChan6782@gmail.com,27, Germany,University of  California - San Diego, ECE, MS
+ Monica  Lee,MonicaLee8345@gmail.com,26, Mexico,University of  Pennsylvania, Bioinformatics, PhD
+ Rachel Shah,RachelShah1684@gmail.com,27, Japan,University of  California - Santa Cruz, CE,BR
+ Sri  Singh,SriSingh5482@gmail.com,22, Australia,University of California - Los Angeles, Data Science, PhD
+ Joe  Chen,JoeChen7470@gmail.com,23, Italy,University of California - Santa Barbara, Maths, MS
+ Stuart  Lee,StuartLee5589@gmail.com,24, USA,University of  Pennsylvania, CE,BR
+ Oliver  Greene,OliverGreene4922@gmail.com,25, France,University of Michigan, ECE, PhD
+ Monica  Watson,MonicaWatson1742@gmail.com,26, Mexico,University of  Wisconsin - Madison, Bioinformatics, PhD
+ Rachel  Smith,RachelSmith1256@gmail.com,27, USA,University of  Washington, CE, PhD
+ Oliver Shah,OliverShah7475@gmail.com,28, Japan,University of  California - Santa Cruz,CSE, MS
+ Monica  Chan,MonicaChan6895@gmail.com,23, Italy,University of  Texas - Austin, CE,BR
+ Joe  Chen,JoeChen5506@gmail.com,23, Italy,University of  Wisconsin - Madison, CE,BR
+ Melissa  Wang,MelissaWang7890@gmail.com,25,India,University of  Texas - Austin, Data Science, MS
+ Binny Shah,BinnyShah3854@gmail.com,26, China,University of California - Santa Barbara, Bioinformatics,BR
+ Melissa  Greene,MelissaGreene1023@gmail.com,25, Spain,University of California - Santa Barbara, Maths,BR
+John  Chan,JohnChan7753@gmail.com,28,India,University of  Wisconsin - Madison, Data Science, MS
+ Rachel  Chan,RachelChan3329@gmail.com,25, China,University of  Washington,CSE, MS
+ Melissa  Greene,MelissaGreene6654@gmail.com,23, China,University of  Texas - Austin, ECE,BR
+John Shah,JohnShah830@gmail.com,21, Japan,University of  California - San Diego, Data Science, MS
+ Melissa  Singh,MelissaSingh4522@gmail.com,23, China,University of  Texas - Austin, ECE, PhD
+ Rachel  Lee,RachelLee7013@gmail.com,27, Germany,University of California - Los Angeles, Maths,BR
+John  Watson,JohnWatson2887@gmail.com,26, Mexico,University of California - Santa Barbara, Bioinformatics,BR
+ Monica  Singh,MonicaSingh5772@gmail.com,20, Australia,University of  Texas - Austin, Data Science,BR
+ Sri  Chen,SriChen9897@gmail.com,26,India,University of  California - San Diego, Bioinformatics, MS
+ Rachel  Smith,RachelSmith3539@gmail.com,20, UK,University of  Texas - Austin, Bioinformatics, MS
+ Joe Shah,JoeShah4336@gmail.com,23, UK,University of  Wisconsin - Madison, Maths,BR
+ Oliver  Wang,OliverWang6557@gmail.com,23,India,University of  Wisconsin - Madison, Bioinformatics,BR
+ Stuart  Chan,StuartChan4998@gmail.com,27, Mexico,University of Michigan, Maths,BR
+ Rachel  Chan,RachelChan203@gmail.com,23, Germany,University of  Wisconsin - Madison,CSE, PhD
+John  Chen,JohnChen106@gmail.com,22, UK,University of  California - Santa Cruz, ECE, PhD
+ Melissa  Lee,MelissaLee1733@gmail.com,28, Spain,University of  Texas - Austin,CSE, MS
+John  Smith,JohnSmith5377@gmail.com,27,India,University of California - Los Angeles, ECE, MS
+ Rachel  Chan,RachelChan401@gmail.com,26, Mexico,University of  Texas - Austin, Data Science,BR
+John Shah,JohnShah4336@gmail.com,20, Greece,University of  Wisconsin - Madison,CSE, MS
+ Stuart Shah,StuartShah4376@gmail.com,23, UK,University of  Texas - Austin, ECE, MS
+ Rachel  Smith,RachelSmith8071@gmail.com,28, Spain,University of Michigan, ECE,BR
+John  Smith,JohnSmith5687@gmail.com,21, Greece,University of  California - Santa Cruz, ECE, PhD
+ Sri  Lee,SriLee9253@gmail.com,27, Italy,University of California - Santa Barbara, Maths,BR
+ Sri  Smith,SriSmith6751@gmail.com,21, Germany,University of  Washington, CE, MS
+ Binny  Lee,BinnyLee5041@gmail.com,23, Germany,University of  California - Santa Cruz, ECE,BR
+John  Wang,JohnWang4830@gmail.com,20, France,University of California - Santa Barbara, Data Science, PhD
+ Sri  Greene,SriGreene7081@gmail.com,28, Japan,University of  Pennsylvania, CE, MS
+John  Greene,JohnGreene6017@gmail.com,23, USA,University of California - Santa Barbara, CE,BR
+ Sri  Chan,SriChan7458@gmail.com,21, Japan,University of  California - Santa Cruz, Bioinformatics,BR
+ Sri  Chen,SriChen617@gmail.com,26, Mexico,University of  California - Santa Cruz, Data Science, MS
+ Melissa  Wang,MelissaWang3257@gmail.com,21, Australia,University of  Wisconsin - Madison, Maths,BR
+ Stuart  Watson,StuartWatson4418@gmail.com,23, Japan,University of  Wisconsin - Madison, ECE, MS
+ Melissa Shah,MelissaShah2490@gmail.com,27, Spain,University of  Washington, Data Science,BR
+ Binny  Watson,BinnyWatson2784@gmail.com,22, USA,University of  Wisconsin - Madison, Data Science,BR
+ Binny  Watson,BinnyWatson5348@gmail.com,20, Italy,University of  Pennsylvania, ECE,BR
+ Binny  Smith,BinnySmith9550@gmail.com,21,India,University of  California - San Diego, ECE,BR
+ Melissa  Wang,MelissaWang9662@gmail.com,28, France,University of California - Santa Barbara, CE,BR
+ Binny  Singh,BinnySingh8203@gmail.com,22, Japan,University of  Pennsylvania, Bioinformatics, PhD
+ Stuart  Chan,StuartChan2248@gmail.com,27, Italy,University of California - Santa Barbara, Data Science,BR
+ Binny  Greene,BinnyGreene8837@gmail.com,28, Japan,University of  California - San Diego, Maths, MS
+ Melissa  Watson,MelissaWatson4644@gmail.com,22,India,University of California - Los Angeles, Bioinformatics,BR
+John Shah,JohnShah6129@gmail.com,25, Italy,University of California - Santa Barbara,CSE, MS
+John  Chen,JohnChen203@gmail.com,26, France,University of Michigan, Maths, PhD
+ Joe  Smith,JoeSmith2522@gmail.com,21, Spain,University of  California - Santa Cruz, CE,BR
+ Rachel  Smith,RachelSmith1030@gmail.com,28, Japan,University of Michigan, Data Science, MS
+John  Singh,JohnSingh9638@gmail.com,28, UK,University of  California - Santa Cruz, Data Science,BR
+ Melissa Shah,MelissaShah1014@gmail.com,20, Japan,University of California - Santa Barbara,CSE, PhD
+ Stuart  Chan,StuartChan9551@gmail.com,25, France,University of Michigan, CE,BR
+ Rachel  Chan,RachelChan2842@gmail.com,26, UK,University of  Washington, Bioinformatics, PhD
+John  Wang,JohnWang8495@gmail.com,25, Mexico,University of California - Los Angeles, Data Science, MS
+ Melissa  Chan,MelissaChan2498@gmail.com,20, UK,University of  California - Santa Cruz, CE, MS
+ Joe  Chen,JoeChen4497@gmail.com,28, Australia,University of  Wisconsin - Madison, Data Science,BR
+John  Chan,JohnChan7465@gmail.com,22,India,University of California - Los Angeles, Bioinformatics, MS
+ Rachel  Smith,RachelSmith1455@gmail.com,22, Mexico,University of  California - Santa Cruz, Bioinformatics, MS
+ Stuart Shah,StuartShah976@gmail.com,21, Australia,University of  Texas - Austin,CSE, PhD
+ Melissa  Lee,MelissaLee4712@gmail.com,27, China,University of  Wisconsin - Madison,CSE, PhD
+John  Chan,JohnChan6543@gmail.com,23, USA,University of  California - Santa Cruz, CE, PhD
+ Oliver  Watson,OliverWatson1056@gmail.com,20,India,University of  Wisconsin - Madison,CSE, MS
+ Sri  Wang,SriWang21@gmail.com,27, Mexico,University of  Washington, Bioinformatics, PhD
+ Joe  Lee,JoeLee802@gmail.com,28, UK,University of Michigan, CE,BR
+John  Wang,JohnWang3812@gmail.com,25, Germany,University of California - Santa Barbara, Bioinformatics, PhD
+John  Watson,JohnWatson9081@gmail.com,23, UK,University of California - Santa Barbara, Data Science, MS
+John Shah,JohnShah6527@gmail.com,25, China,University of  California - San Diego, Data Science, MS
+ Monica  Wang,MonicaWang2998@gmail.com,21, UK,University of Michigan, Bioinformatics, MS
+ Joe  Smith,JoeSmith8855@gmail.com,27, Mexico,University of  Texas - Austin, ECE, MS
+ Sri  Chen,SriChen6708@gmail.com,21, France,University of California - Santa Barbara, CE, MS
+ Monica Shah,MonicaShah1350@gmail.com,26, Italy,University of  California - Santa Cruz, CE, MS
+ Oliver  Singh,OliverSingh9616@gmail.com,27, Spain,University of Michigan, Maths, PhD
+ Melissa Shah,MelissaShah9059@gmail.com,23,India,University of  Texas - Austin, Bioinformatics, MS
+ Sri  Watson,SriWatson4224@gmail.com,26, Spain,University of California - Santa Barbara,CSE,BR
+ Stuart  Chan,StuartChan66@gmail.com,21, Australia,University of  Washington,CSE, MS
+ Joe Shah,JoeShah2322@gmail.com,24, USA,University of California - Santa Barbara, Data Science, PhD
+ Stuart  Chan,StuartChan3450@gmail.com,28,India,University of  Texas - Austin, Bioinformatics, MS
+ Rachel  Chen,RachelChen1761@gmail.com,22, Japan,University of California - Santa Barbara,CSE,BR
+ Melissa  Singh,MelissaSingh8257@gmail.com,22, Greece,University of  Washington, ECE, PhD
+ Monica  Lee,MonicaLee1507@gmail.com,25, Australia,University of  Texas - Austin, Data Science, PhD
+ Binny  Watson,BinnyWatson5796@gmail.com,20, UK,University of  California - Santa Cruz, Data Science,BR
+ Rachel  Singh,RachelSingh2783@gmail.com,20, France,University of California - Los Angeles, Maths,BR
+ Rachel  Watson,RachelWatson662@gmail.com,21, China,University of  California - Santa Cruz, Bioinformatics,BR
+ Stuart Shah,StuartShah9502@gmail.com,20, Italy,University of  Pennsylvania, Bioinformatics, MS
+ Monica  Chen,MonicaChen2201@gmail.com,24, France,University of California - Los Angeles,CSE,BR
+ Binny  Lee,BinnyLee2650@gmail.com,24, Greece,University of  California - Santa Cruz, Bioinformatics, PhD
+ Sri  Singh,SriSingh2536@gmail.com,20, USA,University of  Texas - Austin, Data Science, MS
+ Melissa  Singh,MelissaSingh613@gmail.com,24, UK,University of  Wisconsin - Madison, Bioinformatics,BR
+ Monica Shah,MonicaShah3036@gmail.com,23, Italy,University of California - Santa Barbara, Maths, PhD
+ Oliver  Chen,OliverChen3495@gmail.com,27, China,University of  Texas - Austin,CSE, PhD
+ Binny  Singh,BinnySingh6172@gmail.com,25,India,University of  Washington, CE,BR
+ Stuart  Watson,StuartWatson5532@gmail.com,27, Australia,University of California - Los Angeles, CE, PhD
+ Sri  Lee,SriLee5156@gmail.com,21, Greece,University of  Washington,CSE, MS
+ Melissa  Chen,MelissaChen5031@gmail.com,27, Greece,University of  California - Santa Cruz, Bioinformatics,BR
+ Monica  Greene,MonicaGreene902@gmail.com,24, Spain,University of  California - Santa Cruz, Maths, MS
+ Sri  Chen,SriChen8072@gmail.com,28,India,University of  Wisconsin - Madison, Maths,BR
+ Binny  Watson,BinnyWatson1593@gmail.com,28, France,University of  California - Santa Cruz, ECE,BR
+ Binny  Singh,BinnySingh1652@gmail.com,22, Greece,University of  California - San Diego, CE, MS
+ Binny  Smith,BinnySmith9695@gmail.com,20, Spain,University of California - Los Angeles, Bioinformatics, MS
+ Joe  Chan,JoeChan7976@gmail.com,24, Australia,University of  Wisconsin - Madison, Data Science, PhD
+ Rachel  Watson,RachelWatson2775@gmail.com,21, Australia,University of California - Santa Barbara, CE, MS
+ Melissa  Smith,MelissaSmith6342@gmail.com,24, UK,University of California - Los Angeles, ECE,BR
+ Rachel  Chan,RachelChan1461@gmail.com,22, USA,University of California - Los Angeles, ECE, PhD
+ Joe  Smith,JoeSmith3370@gmail.com,21, Mexico,University of  Texas - Austin, Maths, MS
+ Melissa  Chan,MelissaChan9599@gmail.com,27, Mexico,University of  Wisconsin - Madison, Bioinformatics, PhD
+John  Chan,JohnChan4159@gmail.com,25,India,University of California - Santa Barbara,CSE, MS
+ Melissa  Singh,MelissaSingh82@gmail.com,22, Mexico,University of  California - San Diego, Bioinformatics,BR
+John Shah,JohnShah7831@gmail.com,21, China,University of  Pennsylvania, Bioinformatics, MS
+ Joe Shah,JoeShah5613@gmail.com,27, Spain,University of  Texas - Austin,CSE,BR
+ Monica  Wang,MonicaWang9082@gmail.com,27,India,University of  California - San Diego, CE,BR
+ Oliver  Chan,OliverChan1955@gmail.com,25, Germany,University of  California - San Diego, Maths, PhD
+ Monica  Chen,MonicaChen5099@gmail.com,26, Italy,University of  Texas - Austin, Data Science, MS
+ Rachel  Singh,RachelSingh9153@gmail.com,27, USA,University of California - Los Angeles, Maths,BR
+ Monica  Greene,MonicaGreene4934@gmail.com,27,India,University of California - Los Angeles,CSE,BR
+ Melissa  Smith,MelissaSmith1811@gmail.com,28, USA,University of Michigan,CSE, MS
+ Oliver Shah,OliverShah1152@gmail.com,20, China,University of  Wisconsin - Madison, ECE, MS
+ Oliver  Lee,OliverLee3382@gmail.com,25, Italy,University of  Wisconsin - Madison, Data Science, PhD
+ Monica  Smith,MonicaSmith8911@gmail.com,27,India,University of  Pennsylvania, Data Science, PhD
+ Joe  Chen,JoeChen1577@gmail.com,22, Australia,University of California - Santa Barbara, ECE,BR
+ Joe  Greene,JoeGreene8582@gmail.com,25,India,University of Michigan, Maths, PhD
+ Monica Shah,MonicaShah593@gmail.com,21, Japan,University of  Washington, Bioinformatics, PhD
+ Joe  Lee,JoeLee8805@gmail.com,26, USA,University of  Wisconsin - Madison,CSE, PhD
+ Stuart  Greene,StuartGreene5779@gmail.com,27, China,University of  Wisconsin - Madison, CE, PhD
+ Rachel  Singh,RachelSingh8462@gmail.com,26, Greece,University of  California - Santa Cruz, Bioinformatics, PhD
+ Oliver  Singh,OliverSingh4495@gmail.com,22, China,University of  Pennsylvania, Maths,BR
+ Sri  Watson,SriWatson5203@gmail.com,23, Australia,University of  Texas - Austin,CSE,BR
+ Oliver  Lee,OliverLee9956@gmail.com,20,India,University of Michigan, Bioinformatics, MS
+ Oliver Shah,OliverShah8509@gmail.com,26, Italy,University of  California - Santa Cruz, ECE,BR
+ Oliver Shah,OliverShah9382@gmail.com,26, USA,University of California - Los Angeles, ECE, PhD
+John  Smith,JohnSmith1597@gmail.com,24, Greece,University of  California - San Diego, CE, MS
+ Oliver  Singh,OliverSingh4912@gmail.com,28, Germany,University of Michigan, Maths, PhD
+ Oliver  Greene,OliverGreene1566@gmail.com,25, France,University of  California - San Diego, CE, MS
+ Binny  Wang,BinnyWang8826@gmail.com,25, China,University of  California - San Diego, ECE,BR
+ Stuart  Chen,StuartChen6574@gmail.com,20, France,University of  California - Santa Cruz, Bioinformatics, PhD
+ Monica  Chan,MonicaChan854@gmail.com,26, Italy,University of  California - Santa Cruz,CSE,BR
+ Rachel Shah,RachelShah8303@gmail.com,25, China,University of  Texas - Austin, Bioinformatics, PhD
+ Sri  Watson,SriWatson3955@gmail.com,23, Australia,University of  California - Santa Cruz, Bioinformatics,BR
+ Stuart  Wang,StuartWang4572@gmail.com,24, Spain,University of California - Santa Barbara,CSE, MS
+ Joe  Lee,JoeLee5533@gmail.com,26, Japan,University of Michigan, Bioinformatics, MS
+John  Lee,JohnLee9252@gmail.com,22, Greece,University of  Texas - Austin, Bioinformatics, MS
+ Rachel  Singh,RachelSingh5928@gmail.com,26, USA,University of  Washington, Maths, PhD
+ Oliver  Lee,OliverLee8598@gmail.com,26, Greece,University of  Pennsylvania, CE, MS
+ Rachel  Smith,RachelSmith3179@gmail.com,21, Japan,University of California - Los Angeles, ECE, PhD
+John  Smith,JohnSmith3646@gmail.com,21, China,University of California - Santa Barbara, CE, PhD
+ Sri  Singh,SriSingh6997@gmail.com,28, Australia,University of  California - Santa Cruz, ECE,BR
+ Joe  Singh,JoeSingh9523@gmail.com,25,India,University of  Pennsylvania, Bioinformatics,BR
+John  Wang,JohnWang7432@gmail.com,21, UK,University of California - Santa Barbara, Data Science, MS
+ Oliver  Chen,OliverChen5394@gmail.com,20, Italy,University of  Pennsylvania, Bioinformatics, PhD
+ Oliver  Chen,OliverChen626@gmail.com,20, UK,University of  Pennsylvania, Data Science, MS
+ Binny  Chan,BinnyChan1591@gmail.com,20, France,University of California - Santa Barbara, Bioinformatics, PhD
+ Monica Shah,MonicaShah7749@gmail.com,23, Italy,University of  California - Santa Cruz, ECE,BR
+ Joe Shah,JoeShah8452@gmail.com,20, Italy,University of  Pennsylvania, Bioinformatics, MS
+ Monica  Smith,MonicaSmith4061@gmail.com,28,India,University of  Wisconsin - Madison, Data Science, MS
+ Oliver  Wang,OliverWang8459@gmail.com,25, Japan,University of Michigan,CSE, MS
+ Rachel  Chan,RachelChan2329@gmail.com,21, Italy,University of  Texas - Austin, Bioinformatics, PhD
+ Rachel  Singh,RachelSingh1886@gmail.com,27, Greece,University of  Texas - Austin, Bioinformatics, PhD
+ Joe  Lee,JoeLee597@gmail.com,26, Australia,University of  Washington, CE,BR
+ Sri  Lee,SriLee9487@gmail.com,27, China,University of California - Santa Barbara, CE, PhD
+ Oliver  Wang,OliverWang7328@gmail.com,27, Mexico,University of  California - Santa Cruz, Maths, PhD
+ Binny  Watson,BinnyWatson964@gmail.com,26, Australia,University of California - Los Angeles, Bioinformatics, PhD
+ Binny  Smith,BinnySmith3543@gmail.com,21, Mexico,University of  Washington, Maths, PhD
+ Oliver  Greene,OliverGreene2650@gmail.com,22, Italy,University of  Pennsylvania, Data Science,BR
+ Sri  Greene,SriGreene8686@gmail.com,22, UK,University of  Texas - Austin, Maths,BR
+ Joe  Chen,JoeChen7495@gmail.com,21, UK,University of  Texas - Austin, Data Science, PhD
+ Oliver  Greene,OliverGreene5358@gmail.com,22,India,University of  Washington, ECE,BR
+ Joe  Chan,JoeChan1393@gmail.com,20, Spain,University of California - Los Angeles, Maths,BR
+ Binny  Chen,BinnyChen9014@gmail.com,21, Japan,University of California - Santa Barbara, ECE, MS
+ Binny  Chen,BinnyChen4885@gmail.com,25, Germany,University of  California - San Diego, Bioinformatics,BR
+ Oliver  Chen,OliverChen9750@gmail.com,28, China,University of California - Los Angeles,CSE,BR
+ Monica  Chan,MonicaChan7248@gmail.com,28, Japan,University of  California - Santa Cruz,CSE,BR
+ Monica  Chen,MonicaChen9586@gmail.com,21, Australia,University of  California - Santa Cruz,CSE,BR
+John  Lee,JohnLee7101@gmail.com,20, China,University of  Pennsylvania, Maths,BR
+ Melissa  Greene,MelissaGreene6512@gmail.com,21, France,University of  Wisconsin - Madison, CE,BR
+ Oliver  Singh,OliverSingh7343@gmail.com,27, Italy,University of  Washington,CSE, MS
+ Monica  Smith,MonicaSmith1540@gmail.com,22, China,University of  Wisconsin - Madison, Bioinformatics,BR
+John  Lee,JohnLee4857@gmail.com,22, Mexico,University of  Texas - Austin, Bioinformatics,BR
+ Oliver  Lee,OliverLee7753@gmail.com,21, Greece,University of  Pennsylvania,CSE,BR
+ Rachel  Greene,RachelGreene6324@gmail.com,22, Greece,University of California - Los Angeles, Maths,BR
+ Oliver  Chen,OliverChen4356@gmail.com,27, UK,University of  Pennsylvania, ECE, PhD
+John  Singh,JohnSingh1969@gmail.com,24,India,University of  California - San Diego, Maths,BR
+ Joe  Lee,JoeLee4851@gmail.com,22, Australia,University of  California - Santa Cruz, CE, PhD
+ Stuart  Greene,StuartGreene1279@gmail.com,20, Italy,University of California - Santa Barbara, Bioinformatics, PhD
+ Rachel  Chen,RachelChen317@gmail.com,26, Italy,University of California - Los Angeles, ECE,BR
+ Binny  Greene,BinnyGreene1931@gmail.com,23, Japan,University of  Washington, ECE, MS
+ Rachel  Chen,RachelChen5479@gmail.com,27, Mexico,University of Michigan, Maths,BR
+ Monica  Wang,MonicaWang4113@gmail.com,21, Italy,University of  Wisconsin - Madison, Bioinformatics, MS
+ Binny  Chan,BinnyChan8249@gmail.com,21, Greece,University of  Wisconsin - Madison,CSE, PhD
+ Stuart  Lee,StuartLee6455@gmail.com,25, Mexico,University of  Washington, Data Science,BR
+ Melissa Shah,MelissaShah7228@gmail.com,26,India,University of California - Santa Barbara, Maths,BR
+ Sri  Wang,SriWang180@gmail.com,26, Japan,University of California - Santa Barbara, CE, PhD
+ Oliver  Watson,OliverWatson5359@gmail.com,25, Germany,University of  Texas - Austin, Data Science,BR
+ Stuart  Watson,StuartWatson4316@gmail.com,23, China,University of California - Los Angeles,CSE,BR
+ Joe  Watson,JoeWatson6471@gmail.com,26, Greece,University of  Washington, ECE, PhD
+ Binny  Chan,BinnyChan3074@gmail.com,27,India,University of  Pennsylvania, Maths,BR
+ Joe  Lee,JoeLee7535@gmail.com,23, Germany,University of  California - San Diego, ECE, PhD
+ Joe  Singh,JoeSingh8358@gmail.com,27, Australia,University of  Wisconsin - Madison,CSE, PhD
+ Sri  Chan,SriChan775@gmail.com,24, USA,University of Michigan, Maths, MS
+ Oliver  Wang,OliverWang6568@gmail.com,25,India,University of California - Los Angeles, ECE,BR
+ Binny  Lee,BinnyLee3089@gmail.com,22, Germany,University of  Texas - Austin, ECE,BR
+ Monica  Singh,MonicaSingh3188@gmail.com,27, France,University of  Texas - Austin, Bioinformatics, PhD
+ Rachel  Watson,RachelWatson9739@gmail.com,21, Greece,University of  Washington, Data Science, MS
+ Stuart  Singh,StuartSingh1559@gmail.com,27, USA,University of California - Los Angeles, ECE,BR
+ Joe  Chen,JoeChen9606@gmail.com,22, Italy,University of  Wisconsin - Madison, Maths,BR
+ Melissa  Chan,MelissaChan2991@gmail.com,28, UK,University of  Texas - Austin,CSE,BR
+ Binny  Wang,BinnyWang6760@gmail.com,27, UK,University of  California - San Diego, Bioinformatics,BR
+John  Watson,JohnWatson1954@gmail.com,21, UK,University of  Texas - Austin, CE, MS
+ Oliver  Wang,OliverWang877@gmail.com,28, USA,University of  California - San Diego, CE, PhD
+ Monica  Wang,MonicaWang2901@gmail.com,26, UK,University of  Washington, Maths,BR
+ Monica  Lee,MonicaLee61@gmail.com,26, Germany,University of California - Santa Barbara,CSE,BR
+ Stuart  Smith,StuartSmith8365@gmail.com,25,India,University of  California - San Diego, CE, PhD
+ Rachel  Chan,RachelChan2075@gmail.com,25, Italy,University of  Texas - Austin,CSE,BR
+ Monica  Smith,MonicaSmith5904@gmail.com,20, China,University of California - Santa Barbara, Data Science, MS
+ Sri  Smith,SriSmith1166@gmail.com,25, France,University of California - Santa Barbara, Data Science, PhD
+ Melissa  Smith,MelissaSmith8037@gmail.com,21, Greece,University of  Pennsylvania, ECE, PhD
+ Melissa  Wang,MelissaWang5671@gmail.com,24, Italy,University of  Wisconsin - Madison, Maths, MS
+ Monica Shah,MonicaShah7665@gmail.com,25, France,University of  Wisconsin - Madison, Bioinformatics,BR
+ Oliver Shah,OliverShah9849@gmail.com,25,India,University of California - Santa Barbara,CSE, MS
+ Sri  Lee,SriLee6907@gmail.com,26, USA,University of  Washington, ECE,BR
+ Melissa  Wang,MelissaWang3734@gmail.com,22, USA,University of  California - Santa Cruz, ECE, PhD
+ Sri Shah,SriShah5090@gmail.com,26, Spain,University of  Wisconsin - Madison, CE, MS
+ Sri  Smith,SriSmith5284@gmail.com,27, Australia,University of  Wisconsin - Madison,CSE, MS
+ Oliver  Wang,OliverWang8744@gmail.com,23, China,University of Michigan, ECE, MS
+John  Lee,JohnLee8098@gmail.com,25, China,University of Michigan, Maths, PhD
+John Shah,JohnShah4712@gmail.com,20, USA,University of  Texas - Austin, Bioinformatics,BR
+ Monica  Watson,MonicaWatson1790@gmail.com,22, Greece,University of  Wisconsin - Madison, ECE, PhD
+ Binny  Greene,BinnyGreene9503@gmail.com,20, China,University of  Texas - Austin, Bioinformatics, PhD
+John  Chen,JohnChen5073@gmail.com,22, China,University of California - Santa Barbara,CSE,BR
+ Melissa  Chen,MelissaChen5996@gmail.com,21, UK,University of California - Santa Barbara, CE,BR
+ Binny  Singh,BinnySingh7343@gmail.com,24, France,University of  Wisconsin - Madison,CSE, MS
+ Binny  Singh,BinnySingh3563@gmail.com,28, Mexico,University of California - Santa Barbara,CSE, PhD
+ Sri  Singh,SriSingh3254@gmail.com,26, Italy,University of California - Los Angeles, Bioinformatics, PhD
+John  Watson,JohnWatson8091@gmail.com,23, Mexico,University of  California - San Diego, ECE, MS
+ Oliver  Wang,OliverWang8076@gmail.com,28, Mexico,University of  California - Santa Cruz, Bioinformatics, PhD
+John  Chen,JohnChen8080@gmail.com,23,India,University of  California - San Diego,CSE,BR
+ Monica  Chen,MonicaChen3337@gmail.com,26, France,University of  Wisconsin - Madison, ECE, MS
+ Stuart  Chen,StuartChen6236@gmail.com,27, Australia,University of  Washington, CE,BR
+ Oliver  Watson,OliverWatson6631@gmail.com,20, Japan,University of  California - Santa Cruz, CE, MS
+ Binny  Wang,BinnyWang7842@gmail.com,27, UK,University of  Wisconsin - Madison, CE, PhD
+ Melissa  Watson,MelissaWatson9826@gmail.com,27, UK,University of  Wisconsin - Madison, ECE,BR
+ Stuart  Singh,StuartSingh6718@gmail.com,28,India,University of Michigan,CSE, PhD
+ Stuart  Lee,StuartLee3918@gmail.com,21, Greece,University of Michigan, Maths, MS
+ Sri  Greene,SriGreene5613@gmail.com,28, UK,University of  Washington, Bioinformatics,BR
+ Monica  Greene,MonicaGreene7935@gmail.com,27, Greece,University of Michigan, CE,BR
+ Binny  Chan,BinnyChan7372@gmail.com,23, Germany,University of  California - Santa Cruz, Maths,BR
+John  Chan,JohnChan4983@gmail.com,25, Mexico,University of  Texas - Austin, ECE, PhD
+ Stuart  Chan,StuartChan740@gmail.com,27, UK,University of California - Santa Barbara, Data Science,BR
+ Binny  Singh,BinnySingh9765@gmail.com,25, China,University of Michigan, Bioinformatics, MS
+ Oliver  Wang,OliverWang4473@gmail.com,20, UK,University of  Texas - Austin, Maths,BR
+ Binny  Chen,BinnyChen4584@gmail.com,25, Australia,University of  Pennsylvania, Maths, PhD
+ Monica  Lee,MonicaLee736@gmail.com,23, Spain,University of California - Santa Barbara, ECE,BR
+ Sri  Greene,SriGreene7315@gmail.com,23, Greece,University of  Texas - Austin,CSE, MS
+ Joe  Watson,JoeWatson5549@gmail.com,22, Spain,University of  California - San Diego, Maths,BR
+ Binny  Chan,BinnyChan6392@gmail.com,26,India,University of  California - Santa Cruz,CSE, PhD
+ Sri  Lee,SriLee9426@gmail.com,24, Mexico,University of  California - San Diego, Data Science, PhD
+ Joe  Chen,JoeChen9346@gmail.com,20, USA,University of  California - San Diego, Data Science, MS
+ Melissa  Greene,MelissaGreene4521@gmail.com,27, China,University of  California - San Diego, Data Science, MS
+ Monica  Smith,MonicaSmith9134@gmail.com,25, UK,University of Michigan, Bioinformatics, MS
+ Monica  Wang,MonicaWang6630@gmail.com,23, Mexico,University of  Texas - Austin,CSE,BR
+ Oliver  Watson,OliverWatson1404@gmail.com,23, Mexico,University of  Pennsylvania,CSE, MS
+ Sri  Wang,SriWang2004@gmail.com,21, Australia,University of  California - San Diego, ECE, MS
+ Binny  Greene,BinnyGreene324@gmail.com,25, USA,University of  Pennsylvania,CSE, MS
+ Monica  Wang,MonicaWang1501@gmail.com,26, Germany,University of California - Los Angeles, Maths, PhD
+ Oliver  Greene,OliverGreene4654@gmail.com,24, Japan,University of  California - San Diego, Bioinformatics, MS
+ Joe  Chan,JoeChan8259@gmail.com,24, China,University of  California - Santa Cruz, Bioinformatics,BR
+ Stuart Shah,StuartShah6053@gmail.com,21, Mexico,University of  California - San Diego,CSE, PhD
+ Monica  Wang,MonicaWang2992@gmail.com,22, USA,University of  California - San Diego, ECE,BR
+ Monica  Lee,MonicaLee8476@gmail.com,28,India,University of California - Los Angeles, Maths, MS
+ Sri  Greene,SriGreene9443@gmail.com,24,India,University of California - Santa Barbara, ECE,BR
+ Binny  Greene,BinnyGreene2863@gmail.com,26, Australia,University of  California - Santa Cruz, CE, PhD
+ Stuart  Wang,StuartWang624@gmail.com,21, Spain,University of  California - Santa Cruz, Data Science,BR
+ Stuart Shah,StuartShah2264@gmail.com,22, China,University of California - Santa Barbara,CSE, PhD
+ Oliver  Greene,OliverGreene6500@gmail.com,28, UK,University of  California - Santa Cruz, Bioinformatics, PhD
+ Melissa  Lee,MelissaLee2379@gmail.com,26, Japan,University of California - Los Angeles, CE, PhD
+ Stuart  Smith,StuartSmith3836@gmail.com,22, Spain,University of  Pennsylvania, Data Science, PhD
+ Joe  Greene,JoeGreene130@gmail.com,21, USA,University of California - Los Angeles, Data Science, PhD
+ Monica  Lee,MonicaLee3552@gmail.com,25,India,University of  California - San Diego,CSE, MS
+ Sri  Watson,SriWatson2849@gmail.com,21, UK,University of California - Los Angeles, Maths, PhD
+ Monica  Chan,MonicaChan2710@gmail.com,24, Mexico,University of California - Santa Barbara, CE, PhD
+ Oliver  Watson,OliverWatson6761@gmail.com,25, France,University of  Washington, ECE, MS
+ Binny  Chen,BinnyChen9929@gmail.com,26, Mexico,University of  California - San Diego, Bioinformatics, PhD
+ Monica  Chan,MonicaChan2308@gmail.com,20, Germany,University of Michigan, Maths,BR
+ Monica  Chen,MonicaChen9211@gmail.com,22, UK,University of Michigan, ECE, PhD
+ Oliver  Greene,OliverGreene9331@gmail.com,26, Greece,University of Michigan, Maths,BR
+ Monica  Lee,MonicaLee600@gmail.com,24, Mexico,University of Michigan, Maths,BR
+ Stuart Shah,StuartShah3170@gmail.com,24, Australia,University of California - Los Angeles,CSE, MS
+ Monica  Singh,MonicaSingh871@gmail.com,25, Spain,University of  Pennsylvania, ECE, PhD
+ Binny  Watson,BinnyWatson2729@gmail.com,22, Italy,University of Michigan, Bioinformatics, MS
+ Monica  Smith,MonicaSmith4505@gmail.com,20, China,University of California - Santa Barbara,CSE, MS
+ Rachel  Wang,RachelWang6241@gmail.com,24, France,University of  Pennsylvania, CE, MS
+ Joe  Singh,JoeSingh8186@gmail.com,25, Australia,University of  Texas - Austin, Maths, PhD
+ Sri  Smith,SriSmith1854@gmail.com,25, Italy,University of  California - San Diego, Bioinformatics, MS
+ Oliver  Smith,OliverSmith3634@gmail.com,23, France,University of  California - San Diego,CSE, PhD
+ Rachel Shah,RachelShah9889@gmail.com,22, Australia,University of  California - Santa Cruz, Maths, PhD
+ Joe  Smith,JoeSmith814@gmail.com,21, Mexico,University of  Washington, CE,BR
+ Melissa  Wang,MelissaWang7599@gmail.com,27, USA,University of  Wisconsin - Madison, Maths,BR
+ Rachel  Smith,RachelSmith9730@gmail.com,27, Spain,University of California - Santa Barbara, Bioinformatics, PhD
+ Oliver  Chan,OliverChan168@gmail.com,27, UK,University of California - Los Angeles, Data Science, PhD
+ Rachel  Watson,RachelWatson7508@gmail.com,25, Germany,University of California - Los Angeles, CE,BR
+ Joe  Smith,JoeSmith1909@gmail.com,26, Italy,University of  Washington, Bioinformatics,BR
+ Oliver  Chen,OliverChen1305@gmail.com,23, Italy,University of  California - Santa Cruz, Bioinformatics, MS
+ Melissa Shah,MelissaShah166@gmail.com,20, Japan,University of California - Los Angeles, Bioinformatics, PhD
+ Oliver  Chen,OliverChen5750@gmail.com,22, Italy,University of California - Los Angeles, CE, PhD
+ Stuart  Chan,StuartChan6740@gmail.com,24,India,University of  Texas - Austin, ECE, MS
+ Oliver  Lee,OliverLee6574@gmail.com,28, USA,University of  California - Santa Cruz, Maths, PhD
+ Stuart  Greene,StuartGreene988@gmail.com,21,India,University of  Washington, ECE, MS
+ Melissa  Watson,MelissaWatson511@gmail.com,26, Germany,University of  California - Santa Cruz, Maths,BR
+ Melissa  Lee,MelissaLee2807@gmail.com,21, Greece,University of  California - Santa Cruz, Maths, MS
+ Rachel Shah,RachelShah2830@gmail.com,20, Mexico,University of California - Los Angeles, Maths, MS
+John  Wang,JohnWang88@gmail.com,28, China,University of Michigan,CSE, PhD
+ Melissa  Lee,MelissaLee3991@gmail.com,22, Japan,University of  Wisconsin - Madison,CSE,BR
+ Joe  Wang,JoeWang7114@gmail.com,27, Japan,University of  California - Santa Cruz, Data Science,BR
+ Melissa  Watson,MelissaWatson156@gmail.com,27, China,University of  California - Santa Cruz, ECE, MS
+ Stuart  Greene,StuartGreene2229@gmail.com,24, China,University of  California - Santa Cruz, ECE,BR
+ Monica  Wang,MonicaWang8548@gmail.com,23, Spain,University of  Wisconsin - Madison, ECE, MS
+ Stuart  Singh,StuartSingh4280@gmail.com,26, China,University of  Pennsylvania, CE, MS
+John  Greene,JohnGreene9743@gmail.com,27, UK,University of  Texas - Austin, Bioinformatics, MS
+ Oliver  Chen,OliverChen972@gmail.com,22,India,University of  California - San Diego, Data Science, MS
+ Oliver  Smith,OliverSmith7194@gmail.com,21, China,University of  Pennsylvania,CSE,BR
+ Rachel  Chen,RachelChen6161@gmail.com,21, Australia,University of Michigan, ECE, PhD
+ Stuart  Smith,StuartSmith8997@gmail.com,22, Italy,University of  Texas - Austin, Data Science,BR
+ Binny  Watson,BinnyWatson7177@gmail.com,22, Italy,University of  Texas - Austin, CE, PhD
+ Joe  Lee,JoeLee3734@gmail.com,27,India,University of  Texas - Austin, Data Science, PhD
+ Rachel  Singh,RachelSingh1128@gmail.com,26, France,University of  California - San Diego, Bioinformatics, PhD
+ Stuart  Watson,StuartWatson7466@gmail.com,23, Germany,University of  California - San Diego, Maths, PhD
+ Binny  Chan,BinnyChan3192@gmail.com,24, Spain,University of  Wisconsin - Madison,CSE, MS
+ Sri  Watson,SriWatson3455@gmail.com,23, Spain,University of  Wisconsin - Madison, CE, PhD
+ Sri  Lee,SriLee898@gmail.com,20,India,University of  Texas - Austin, ECE,BR
+ Melissa  Chan,MelissaChan9456@gmail.com,21, Japan,University of  Wisconsin - Madison, CE,BR
+ Joe  Chan,JoeChan2698@gmail.com,24, Germany,University of California - Santa Barbara, CE, MS
+ Oliver  Greene,OliverGreene4438@gmail.com,26, France,University of Michigan, ECE, PhD
+ Binny  Lee,BinnyLee5037@gmail.com,23, Germany,University of  California - Santa Cruz, Maths,BR
+ Oliver  Chen,OliverChen9984@gmail.com,24, Australia,University of California - Santa Barbara, Data Science,BR
+ Sri Shah,SriShah2214@gmail.com,22, France,University of  Washington, ECE, MS
+ Sri  Smith,SriSmith5494@gmail.com,22, USA,University of Michigan, Maths, MS
+ Rachel Shah,RachelShah6586@gmail.com,25, Italy,University of  California - Santa Cruz, ECE,BR
+ Rachel  Wang,RachelWang5334@gmail.com,24, Greece,University of  Texas - Austin, CE,BR
+ Sri  Lee,SriLee8733@gmail.com,27, Italy,University of  California - San Diego,CSE, MS
+ Oliver  Lee,OliverLee4445@gmail.com,21, Australia,University of California - Santa Barbara, CE,BR
+ Melissa  Lee,MelissaLee2886@gmail.com,28, Germany,University of  California - Santa Cruz, CE, MS
+ Oliver  Lee,OliverLee9896@gmail.com,25, Japan,University of  Texas - Austin,CSE, PhD
+ Oliver  Watson,OliverWatson1229@gmail.com,24, Italy,University of  Washington, Bioinformatics, PhD
+ Monica Shah,MonicaShah3457@gmail.com,24, China,University of  California - San Diego, Bioinformatics, PhD
+ Monica  Lee,MonicaLee1042@gmail.com,22, UK,University of  California - San Diego, ECE,BR
+John  Watson,JohnWatson8361@gmail.com,27, Australia,University of  Washington, CE,BR
+ Monica  Watson,MonicaWatson8795@gmail.com,27, Spain,University of  California - San Diego, Maths, MS
+ Stuart  Chen,StuartChen1771@gmail.com,25, USA,University of  California - Santa Cruz, Maths, PhD
+ Sri  Wang,SriWang6383@gmail.com,26, France,University of  California - Santa Cruz, Data Science, MS
+ Binny  Singh,BinnySingh4171@gmail.com,22,India,University of  Washington, ECE, PhD
+ Oliver  Smith,OliverSmith8551@gmail.com,24, Germany,University of  California - Santa Cruz,CSE, MS
+ Melissa  Smith,MelissaSmith7526@gmail.com,28, Australia,University of Michigan,CSE, PhD
+ Joe  Chan,JoeChan1435@gmail.com,26, Spain,University of  Texas - Austin, ECE, MS
+ Rachel  Watson,RachelWatson3019@gmail.com,26, Australia,University of  California - Santa Cruz,CSE,BR
+ Oliver  Chan,OliverChan5444@gmail.com,21, Greece,University of  Texas - Austin, ECE,BR
+ Binny  Smith,BinnySmith2883@gmail.com,22, Italy,University of California - Santa Barbara, ECE, MS
+ Joe  Chan,JoeChan3872@gmail.com,20, Greece,University of  California - Santa Cruz, Data Science, MS
+ Melissa  Chen,MelissaChen3890@gmail.com,24, Italy,University of  Wisconsin - Madison, Maths, PhD
+ Oliver Shah,OliverShah3741@gmail.com,24,India,University of California - Los Angeles,CSE, MS
+ Stuart  Lee,StuartLee8883@gmail.com,26, UK,University of California - Los Angeles, ECE, MS
+ Sri  Chen,SriChen412@gmail.com,28, USA,University of  California - Santa Cruz, Data Science,BR
+ Stuart  Singh,StuartSingh2171@gmail.com,27,India,University of  Wisconsin - Madison, CE, PhD
+ Stuart  Smith,StuartSmith5307@gmail.com,23,India,University of California - Los Angeles, Data Science,BR
+ Melissa Shah,MelissaShah8529@gmail.com,22, Italy,University of California - Los Angeles, ECE,BR
+ Stuart  Smith,StuartSmith4239@gmail.com,28, China,University of  Texas - Austin, Data Science, MS
+ Joe Shah,JoeShah7713@gmail.com,23, France,University of  Pennsylvania, CE, MS
+ Rachel  Smith,RachelSmith8298@gmail.com,23, Germany,University of  Pennsylvania,CSE,BR
+ Melissa  Greene,MelissaGreene471@gmail.com,28, Germany,University of  Wisconsin - Madison, Data Science, PhD
+John Shah,JohnShah1460@gmail.com,23, Japan,University of Michigan, Data Science, MS
+ Binny  Greene,BinnyGreene1951@gmail.com,20, UK,University of  Texas - Austin,CSE, PhD
+ Rachel  Wang,RachelWang8954@gmail.com,28, Germany,University of Michigan,CSE, PhD
+ Monica  Wang,MonicaWang2076@gmail.com,21, UK,University of  Wisconsin - Madison, CE,BR
+ Melissa  Chen,MelissaChen3447@gmail.com,26, Mexico,University of  California - Santa Cruz, CE, PhD
+ Rachel  Greene,RachelGreene2647@gmail.com,28, Japan,University of California - Los Angeles, Maths, MS
+ Sri  Wang,SriWang5686@gmail.com,21, Greece,University of California - Los Angeles,CSE, MS
+ Sri  Greene,SriGreene3240@gmail.com,25, Australia,University of California - Los Angeles, CE, MS
+ Melissa Shah,MelissaShah2349@gmail.com,23,India,University of  Pennsylvania, ECE,BR
+John  Wang,JohnWang7785@gmail.com,24, USA,University of  California - Santa Cruz, CE, MS
+ Binny  Wang,BinnyWang4646@gmail.com,27, Italy,University of  California - San Diego,CSE, MS
+ Stuart  Singh,StuartSingh4043@gmail.com,24, USA,University of  Washington, Bioinformatics, MS
+ Binny  Singh,BinnySingh9958@gmail.com,20, Australia,University of  California - Santa Cruz,CSE, PhD
+ Monica  Chan,MonicaChan5826@gmail.com,20, China,University of  California - Santa Cruz, ECE, PhD
+ Melissa  Singh,MelissaSingh495@gmail.com,24,India,University of California - Santa Barbara, ECE, PhD
+ Sri  Chen,SriChen1609@gmail.com,26, Mexico,University of  Pennsylvania,CSE,BR
+ Joe  Wang,JoeWang4360@gmail.com,21, Mexico,University of  California - Santa Cruz, Bioinformatics,BR
+ Monica  Chan,MonicaChan6344@gmail.com,21, Italy,University of  Wisconsin - Madison, Maths,BR
+ Monica  Wang,MonicaWang6843@gmail.com,25, Spain,University of  Texas - Austin,CSE, PhD
+ Monica  Chen,MonicaChen7130@gmail.com,24, Japan,University of California - Los Angeles, Bioinformatics, MS
+John  Greene,JohnGreene6070@gmail.com,21, Germany,University of California - Santa Barbara, Data Science, MS
+ Joe  Smith,JoeSmith5761@gmail.com,20, Italy,University of California - Santa Barbara, Data Science, PhD
+ Oliver  Lee,OliverLee5936@gmail.com,24, Mexico,University of  California - Santa Cruz, ECE, PhD
+ Stuart  Greene,StuartGreene3009@gmail.com,21, Germany,University of  Washington, Data Science, PhD
+John Shah,JohnShah9434@gmail.com,26, USA,University of Michigan,CSE,BR
+John Shah,JohnShah2670@gmail.com,24, Australia,University of California - Los Angeles, ECE, MS
+ Joe  Smith,JoeSmith2723@gmail.com,21, Italy,University of  Washington, Bioinformatics,BR
+ Melissa  Watson,MelissaWatson1860@gmail.com,22,India,University of  California - Santa Cruz, Data Science,BR
+ Rachel  Watson,RachelWatson5846@gmail.com,27, Spain,University of  Pennsylvania, ECE, PhD
+ Joe  Chen,JoeChen1342@gmail.com,20, UK,University of  Wisconsin - Madison,CSE, PhD
+ Binny  Chen,BinnyChen2983@gmail.com,26, UK,University of Michigan, Maths, MS
+ Joe  Singh,JoeSingh8875@gmail.com,28, Spain,University of  California - Santa Cruz, Bioinformatics, PhD
+ Oliver  Singh,OliverSingh1166@gmail.com,23, China,University of California - Los Angeles,CSE, PhD
+ Sri  Chan,SriChan8436@gmail.com,28, Spain,University of  California - Santa Cruz, CE,BR
+ Rachel  Greene,RachelGreene8091@gmail.com,28, Mexico,University of California - Santa Barbara, Data Science,BR
+John  Singh,JohnSingh6273@gmail.com,24, China,University of California - Los Angeles, Maths,BR
+ Sri  Chan,SriChan4557@gmail.com,26, Australia,University of  Pennsylvania,CSE, PhD
+ Melissa  Lee,MelissaLee5502@gmail.com,23, Italy,University of  California - San Diego, Maths, PhD
+ Binny  Chen,BinnyChen1830@gmail.com,27, Greece,University of  Wisconsin - Madison, Bioinformatics, MS
+ Oliver  Lee,OliverLee9991@gmail.com,23, USA,University of  Pennsylvania, Bioinformatics,BR
+ Binny  Lee,BinnyLee6723@gmail.com,24, Greece,University of  Texas - Austin, CE, PhD
+ Sri  Smith,SriSmith8312@gmail.com,27, Japan,University of  Washington, Maths, PhD
+ Joe  Chen,JoeChen9018@gmail.com,28, UK,University of Michigan, ECE, PhD
+ Joe Shah,JoeShah1769@gmail.com,26, USA,University of California - Santa Barbara, CE,BR
+ Rachel  Wang,RachelWang1973@gmail.com,20, Greece,University of  California - San Diego,CSE, MS
+ Oliver  Chen,OliverChen8965@gmail.com,28,India,University of  California - San Diego, Data Science, PhD
+John  Chan,JohnChan6399@gmail.com,27, France,University of  Pennsylvania, Maths, MS
+ Joe  Singh,JoeSingh9645@gmail.com,25,India,University of  Washington, Data Science, PhD
+ Monica  Greene,MonicaGreene3254@gmail.com,27, UK,University of  California - San Diego, Maths,BR
+ Monica  Greene,MonicaGreene7987@gmail.com,21,India,University of  Pennsylvania, ECE, PhD
+ Sri  Chan,SriChan6185@gmail.com,24, Japan,University of California - Los Angeles,CSE, PhD
+ Rachel  Lee,RachelLee2091@gmail.com,25, China,University of California - Los Angeles, Bioinformatics, MS
+ Stuart  Chen,StuartChen2898@gmail.com,23, UK,University of  Pennsylvania,CSE, PhD
+ Joe  Chen,JoeChen3461@gmail.com,26, Spain,University of  Texas - Austin, ECE, MS
+ Binny  Lee,BinnyLee35@gmail.com,27, France,University of California - Los Angeles, Data Science,BR
+John  Lee,JohnLee6370@gmail.com,23, Spain,University of  California - San Diego, CE, MS
+ Stuart  Greene,StuartGreene4050@gmail.com,23, Mexico,University of  Pennsylvania, ECE, MS
+ Sri Shah,SriShah2829@gmail.com,24, Australia,University of California - Santa Barbara, ECE, MS
+ Oliver  Wang,OliverWang8779@gmail.com,24, Greece,University of  California - Santa Cruz, Bioinformatics, MS
+ Melissa  Watson,MelissaWatson9841@gmail.com,25,India,University of Michigan, Data Science, MS
+ Rachel Shah,RachelShah9159@gmail.com,26, China,University of  California - Santa Cruz, ECE, PhD
+ Monica  Wang,MonicaWang7415@gmail.com,24, USA,University of California - Los Angeles, Maths,BR
+ Sri  Chan,SriChan8470@gmail.com,27, China,University of  Washington, Bioinformatics,BR
+ Stuart  Watson,StuartWatson7115@gmail.com,21, USA,University of Michigan,CSE, PhD
+ Oliver  Lee,OliverLee7092@gmail.com,28, Greece,University of  California - Santa Cruz,CSE, PhD
+ Monica Shah,MonicaShah6953@gmail.com,23, Australia,University of  California - San Diego, ECE,BR
+ Stuart  Greene,StuartGreene4720@gmail.com,27, Italy,University of  Wisconsin - Madison, Maths, MS
+ Melissa  Watson,MelissaWatson6373@gmail.com,25, Italy,University of California - Los Angeles, CE,BR
+ Sri  Watson,SriWatson6026@gmail.com,20, Spain,University of  Texas - Austin, Maths, PhD
+ Sri  Watson,SriWatson4165@gmail.com,28, Spain,University of  Texas - Austin, Data Science, MS
+ Joe  Greene,JoeGreene9188@gmail.com,27, Italy,University of Michigan, Data Science, MS
+ Oliver  Smith,OliverSmith8948@gmail.com,20, Spain,University of  Texas - Austin,CSE,BR
+John  Smith,JohnSmith2880@gmail.com,25,India,University of  Texas - Austin, ECE, PhD
+ Sri  Chan,SriChan1881@gmail.com,21, UK,University of Michigan, Maths,BR
+ Melissa  Lee,MelissaLee9386@gmail.com,20, UK,University of  California - Santa Cruz,CSE,BR
+ Binny  Wang,BinnyWang5358@gmail.com,28, Japan,University of  Texas - Austin,CSE,BR
+ Monica  Greene,MonicaGreene6821@gmail.com,27, Italy,University of  Pennsylvania, Data Science, MS
+ Melissa  Chen,MelissaChen6946@gmail.com,21, China,University of  Pennsylvania,CSE, PhD
+ Stuart  Singh,StuartSingh8349@gmail.com,26, USA,University of  Wisconsin - Madison, Bioinformatics, PhD
+ Joe  Chan,JoeChan5478@gmail.com,20, Greece,University of  California - Santa Cruz,CSE, PhD
+ Stuart Shah,StuartShah9448@gmail.com,23, Spain,University of California - Los Angeles, CE, PhD
+ Binny  Chan,BinnyChan9927@gmail.com,25, Mexico,University of  Washington, CE,BR
+ Oliver  Lee,OliverLee8683@gmail.com,21, Germany,University of California - Santa Barbara, Bioinformatics, MS
+ Oliver  Singh,OliverSingh8760@gmail.com,24, Italy,University of Michigan, Bioinformatics, MS
+ Binny Shah,BinnyShah1950@gmail.com,27, China,University of  California - Santa Cruz,CSE, MS
+ Rachel  Singh,RachelSingh2521@gmail.com,22, USA,University of  Texas - Austin,CSE,BR
+ Rachel Shah,RachelShah3342@gmail.com,24, Greece,University of  Washington,CSE,BR
+ Joe  Chen,JoeChen5256@gmail.com,20, Italy,University of Michigan, Maths, PhD
+ Stuart  Watson,StuartWatson4464@gmail.com,23, USA,University of  Pennsylvania,CSE,BR
+ Joe  Smith,JoeSmith3849@gmail.com,28,India,University of California - Santa Barbara, Bioinformatics, PhD
+ Oliver Shah,OliverShah3963@gmail.com,23, France,University of  California - Santa Cruz,CSE, PhD
