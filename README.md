@@ -1,2 +1,3 @@
 # sdhacks-16
-SDHacks 2016, UCSD
+## September 30 - October 2, 2016
+## University of California, San Diego
