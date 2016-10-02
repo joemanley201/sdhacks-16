@@ -185,7 +185,9 @@
                     <div class="btn btn-xl" id="uploadButton">
                         <i class="fa fa-cloud-upload" aria-hidden="true"></i> Upload
                     </div>
-                    <input type="file" id="fileUpload" style="opacity:0; height:0px;width:0px;" />
+                    <form id="fileUploadForm" method="post" enctype="multipart/form-data" name="fileUploadForm">
+                        <input type="file" id="fileUpload" style="opacity:0; height:0px;width:0px;" name="fileUpload"/>
+                    </form>
                 </div>
             </div>
             <!-- <div class="row">
@@ -651,12 +653,28 @@
     <!-- Theme JavaScript -->
     <script src="{{ url_for('static', filename='js/agency.min.js') }}"></script>
     <script>
-        document.getElementById('uploadButton').onclick = function(){
+        document.getElementById('uploadButton').onclick = function() {
             document.getElementById('fileUpload').click();
         }
-        document.getElementById("file").onchange = function() {
-            document.getElementById("form").submit();
-        };
+        document.getElementById('fileUpload').onchange = function() {
+            var formData = new FormData()
+            var csv = document.getElementById("fileUpload").files[0]
+            formData.append("uploaded_file", csv)
+            formData.append('lastModifed', csv.lastModified)
+            formData.append('fileName', csv.name)
+            $.ajax({
+                url: '/upload_csv',
+                type:'POST',
+                data: formData,
+                async: true,
+                contentType: false,
+                processData: false,
+                cache: false,
+                success: function(response) {
+                    console.log(response)
+                }
+            });
+        }
     </script>
 
 </body>
