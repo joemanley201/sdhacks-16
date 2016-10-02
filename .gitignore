@@ -5,3 +5,7 @@ OS X Idea Files
 Ignore .pyc Files
 =================
 *.pyc
+
+Ignore .DS_Store
+================
+.DS_Store
