@@ -190,12 +190,13 @@
                     </form>
                 </div>
             </div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
+            
             <div class="row hidden" id="loadingGif">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
                 <div class="col-lg-12 text-center">
                     <img src="{{ url_for('static', filename='img/loading.gif') }}" alt="">
                 </div>
@@ -685,7 +686,7 @@
                 cache: false,
                 success: function(response) {
                     $("#loadingGif").addClass("hidden");
-                    $(this)
+                    console.log(JSON.parse(response));
                 }
             });
         }

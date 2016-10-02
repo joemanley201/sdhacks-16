@@ -3,10 +3,10 @@ from flask import Flask
 from flask import request
 import json
 import pandas as pd
-import jsonify
+import json
 import csv
 import io
-
+from analyze import analyze_csv_file
 
 app = Flask(__name__)
 
@@ -21,10 +21,8 @@ def add_numbers():
 
 	stream = io.StringIO(uploaded_file.stream.read().decode("UTF8"), newline=None)
 	uploaded_csv = csv.reader(stream)
-	for row in uploaded_csv:
-		print row
-
-	return "File Uploaded"
+	
+	return json.dumps(analyze_csv_file(uploaded_csv))
 
 if __name__ == '__main__':
 	app.run(debug=True)
