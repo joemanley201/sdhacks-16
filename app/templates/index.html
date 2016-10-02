@@ -654,6 +654,9 @@
         document.getElementById('uploadButton').onclick = function(){
             document.getElementById('fileUpload').click();
         }
+        document.getElementById("file").onchange = function() {
+            document.getElementById("form").submit();
+        };
     </script>
 
 </body>
