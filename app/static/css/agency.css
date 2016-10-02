@@ -23,6 +23,13 @@ body {
 .text-primary {
   color: #007ee5;
 }
+.google_chart_div {
+  height: 400px;
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  float: none;
+}
 p {
   font-size: 14px;
   line-height: 1.75;
