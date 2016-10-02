@@ -2,6 +2,7 @@ import itertools
 import csv
 import random
 total_size = 500
+from sparkpost_impl import send_email
 
 def pick_one_person(combination, fields, csvFile):
 	fields = [3, 4]
@@ -37,5 +38,10 @@ def form_groups(fields, number_of_groups, csv_file_stream, analyzed_result):
 			while selected_person == None:
 				random_group = random.randrange(0, len(combinations))
 				selected_person = pick_one_person(combinations[random_group], fields, csv_file)    
-				output_groups[i].append(selected_person)        
+				output_groups[i].append(selected_person)
+	team_group_members = ['joemanley201@gmail.com', 'sweetha.k.kumar@gmail.com', 'melvix_2020@yahoo.co.in', 'sriniavireddy@gmail.com']
+	for team_member in team_group_members:
+		temp_group = team_group_members[:]
+		temp_group.remove(team_member)
+		send_email(team_member, temp_group)
 	return output_groups
