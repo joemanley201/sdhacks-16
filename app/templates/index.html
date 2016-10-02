@@ -606,6 +606,7 @@
         document.getElementById('fileUpload').onchange = function() {
             scrollToElement("about");
             $("#loadingGif").removeClass("hidden");
+            $("#charts_placeholder .section-subheading")[0].innerHTML = "Loading data facts ..."
 
             var formData = new FormData()
             var csv = document.getElementById("fileUpload").files[0]
