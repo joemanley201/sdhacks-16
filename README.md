@@ -5,17 +5,17 @@
 
 ## Inspiration
 Coming from India, we are not really used to mixers. And we found it really hard to break ice with people outside our social circles. 
-When we go to Grads n Grub and other UCSSD mixers. So we wanted to build something that helps such "wannabe social" people get more social
+When we go to Grads n Grub and other UCSD mixers. So we wanted to build something that helps people get more social.
 
 ## What it does
-Form intelligent groups to break the ice at the event
+Form intelligent groups to break the ice at the event. Through SparkPost emails can be sent to the groups formed which then serves as the medium for further activities. Features like double-blind messaging, polls, raffles provided by SparkPost help in socializing.
 
 ## How we built it
 AnuglarJS, Bootstrap, Python-flask, Relational Data Store
 
 ## Challenges we ran into
-Integrating SparkPost
-Processing input data and manipulating it
+1. Integrating SparkPost
+2. Processing input data and manipulating it
 
 ## Accomplishments that we're proud of
 Solved an easy problem with an effective solution which has a huge impact
