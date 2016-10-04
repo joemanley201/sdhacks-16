@@ -24,4 +24,23 @@ Solved an easy problem with an effective solution which has a huge impact
 Teamwork, distribution of responsibilities, making use of individual strengths and finally time management
 
 ## What's next for Go Caboodle
-Organize events from Go Caboodle
+Organize events from Go Caboodle or integrate with EventBrite, Facebook events, etc.
+
+
+##Screenshots
+###Landing Page
+![landing_page]
+
+[landing_page]: screenshots/1_landing_page.png
+
+###Features
+![features]
+[features]: screenshots/2_features.png
+
+###Data Facts
+![data_facts]
+[data_facts]: screenshots/3_data_facts.png
+
+###Send Emails
+![send_emails]
+[send_emails]: screenshots/4_send_emails.png
