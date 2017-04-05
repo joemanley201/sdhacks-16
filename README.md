@@ -4,11 +4,10 @@
 
 
 ## Inspiration
-Coming from India, we are not really used to mixers. And we found it really hard to break ice with people outside our social circles. 
-When we go to Grads n Grub and other UCSD mixers. So we wanted to build something that helps people get more social.
+Coming from India, we are not really used to mixers. And we found it really hard to break the ice with people outside our social circles, when we go to `Grads n Grub` and other UCSD mixers. So we wanted to build something that helps people get more social.
 
 ## What it does
-Form intelligent groups to break the ice at the event. Through SparkPost emails can be sent to the groups formed which then serves as the medium for further activities. Features like double-blind messaging, polls, raffles provided by SparkPost help in socializing.
+Form intelligent groups to break the ice at the event. Emails can be sent through SparkPost, to the groups formed, which then serves as the medium for further activities. Features like double-blind messaging, polls, raffles provided by SparkPost, help in socializing.
 
 ## How we built it
 AnuglarJS, Bootstrap, Python-flask, Relational Data Store
@@ -27,20 +26,23 @@ Teamwork, distribution of responsibilities, making use of individual strengths a
 Organize events from Go Caboodle or integrate with EventBrite, Facebook events, etc.
 
 
-##Screenshots
-###Landing Page
+## Screenshots
+### Landing Page
 ![landing_page]
 
 [landing_page]: screenshots/1_landing_page.png
 
-###Features
+### Features
 ![features]
+
 [features]: screenshots/2_features.png
 
-###Data Facts
+### Data Facts
 ![data_facts]
+
 [data_facts]: screenshots/3_data_facts.png
 
-###Send Emails
+### Send Emails
 ![send_emails]
+
 [send_emails]: screenshots/4_send_emails.png
